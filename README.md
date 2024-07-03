@@ -3,8 +3,14 @@ This repository aims to collect my personal coding notes on various programming 
 ## Contents
 
 - [Design Patterns](#design-patterns) 
-- [Dev Tools](#dev-tools)
 
 ## Design Patterns
 
-## Dev Tools
+> Creational Design Patterns - different ways to create objects
+
+> Structural Design Patterns - relationships between the objects
+
+> Behavioral Design Patterns - interaction / communication between the objects
+
+### Memento
+

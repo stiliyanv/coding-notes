@@ -14,3 +14,4 @@ This repository aims to collect my personal coding notes on various programming 
 
 ### Memento
 
+Lets you save and restore the previous state of an object (undo mechanism).
